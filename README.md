@@ -1,0 +1,2 @@
+# BIN_AndroidProject
+和BIN框架配合的Android工程，包含Cordova库和CrossWalk库
